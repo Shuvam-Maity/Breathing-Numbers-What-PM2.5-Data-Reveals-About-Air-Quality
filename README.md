@@ -46,7 +46,7 @@ Official data from the Central Pollution Control Board (CPCB) is used to evaluat
 ---
 
 ## 🛠️ Tools & Technologies
-- Programming Language: Python
+- Programming Language: Python,R
 - Libraries:
   - Pandas
   - NumPy
@@ -72,18 +72,6 @@ Official data from the Central Pollution Control Board (CPCB) is used to evaluat
 ## 📌 Conclusion
 Although Kolkata’s air quality appears manageable on average, frequent extreme PM2.5 spikes and strong seasonal effects indicate a persistent public health concern.  
 This project demonstrates how data science can support environmental policy, urban planning, and health-focused decision-making.
-
----
-
-## 👥 Authors
-Shuvam Maity  
-Shreeja Banerjee  
-
-M.Sc. Data Science (2nd Year)
-
-Emails:
-- shuvamofficial40@gmail.com
-- shreejabanerjee.datascience@gmail.com
 
 ---
 
